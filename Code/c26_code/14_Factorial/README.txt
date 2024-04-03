@@ -1,0 +1,1 @@
+Compile each of the source files separately.

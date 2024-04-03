@@ -1,0 +1,4 @@
+C++ provides the following vocabulary types:
+- std::optional: either contains a value of a certain type, or is empty.
+- std::variant: contains a value of a given set of types.
+- std::any: contains a value of any type.
